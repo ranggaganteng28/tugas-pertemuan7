@@ -16,7 +16,7 @@
 ### Latihan 1 
 * Saya diberikan tugas untuk membuat program perulangan bersarang/bertingkat (nested for) yang menghasilkan output berikut
 
-![output 1](gambar/tugas%201.PNG)
+![output 1](isi%20fhoto/tugas%201.png)
 
 Maka program yang saya buat sebagai berikut atau bisa dilihat di [Source Code](latihan1.py)
 
@@ -58,7 +58,7 @@ print()
 
 Maka program yang di hasil seperti berikut
 
-![hasil ke1](gambar/hasil1.png)
+![hasil ke1](isi%20fhoto/hasil%201.png)
 
 
 ### Latihan 2
@@ -69,7 +69,7 @@ Maka program yang di hasil seperti berikut
      
 Seperti pada gambar berikut
 
-![output 2](gambar/tugas%202.PNG)
+![output 2](isi%20fhoto/tugas%202.png)
 
 Maka program yang saya buat sebagai berikut atau bisa dilihat di [hasil Code](latihan2.py)
 
@@ -112,14 +112,14 @@ angkaDec = random.uniform(0, 0.5)
 
 Maka program yang dihasilkan akan seperti berikut
 
-![tampil 2](gambar/hasil2.png)
+![tampil 2](isi%20fhoto/hasil%202.png)
 
 
 ### program 1
 
 soal hasil praktikum.....
 
-![GitHub Logo](gambar/tugas%203.png) <h2>
+![GitHub Logo](isi%20fhoto/tugas%203.png) <h2>
 
   *Membuat program sederhana dengan perulangan :
 
@@ -216,7 +216,7 @@ print("\n Total : ",total)
 
 ## Hasil output program3 ketika run time adalah sebagai berikut :
 
-# ![GitHub Logo](gambar/hasil3.png) <h2>
+# ![GitHub Logo](isi%20fhoto/hasil%203.png) <h2>
 
 
 # keep spirit.....
